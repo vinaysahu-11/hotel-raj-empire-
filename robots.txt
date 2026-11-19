@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://08-hotel-raj-empire.rajnandgaonhotels.in/sitemap.xml
